@@ -1,0 +1,8 @@
+{
+    "name": "auto-trash",
+    "version": "0.0.1",
+    "factorio_version": "1.1",
+    "title": "Auto Trash",
+    "author": "Simon Barkehanai",
+    "description": "Automatically trashes items not requested."
+}
